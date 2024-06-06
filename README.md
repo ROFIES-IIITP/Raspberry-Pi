@@ -6,12 +6,12 @@ Welcome to the Raspberry Pi Projects Repository! This repository includes detail
 
 1. [📋 Raspberry Pi Setup Guide](#raspberry-pi-setup-guide)
 2. [💡 Projects](#projects)
-   - [🌦️ Project 1: Weather Station](#project-1-weather-station)
-   - [🏠 Project 2: Home Automation](#project-2-home-automation)
+   - 🌦️ Project 1: Weather Station
+   - 🏠 Project 2: Home Automation
 
 ## 📋 Raspberry Pi Setup Guide
 
-For detailed instructions on setting up your Raspberry Pi, please refer to the [Raspberry Pi Setup Guide](setup-guide.md).
+For detailed instructions on setting up your Raspberry Pi, please refer to the [Raspberry Pi Setup Guide](./Setup-Guide.md).
 
 ## 💡 Projects
 
