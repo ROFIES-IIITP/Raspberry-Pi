@@ -1,3 +1,11 @@
+---
+name: 🚀 Feature Request
+about: Suggest an idea for this project
+title: "[ 🚀 FEATURE] "
+labels: enhancement
+assignees: ''
+---
+
 ## Feature Request
 
 ### Description
@@ -8,16 +16,20 @@
 
 ### Use Case
 
-**Explain why this feature would be useful:**
+**Why this feature would be useful:**
 
 [Describe how this feature would help you or the community.]
 
 ### Suggested Solution
 
+**How this feature could be implemented:**
+
 [If you have any ideas on how this feature could be implemented, feel free to suggest a solution.]
 
 ### Additional Context
 
-[Add any other context or screenshots related to the feature request.]
+**Any other context or screenshots related to the feature request:**
+
+[Add any other context or screenshots related to the feature request here.]
 
 /cc @mention-anyone

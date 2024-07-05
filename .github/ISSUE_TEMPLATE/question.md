@@ -1,3 +1,11 @@
+---
+name: ❓ Question
+about: Ask a question about this project
+title: "[❓ QUESTION] "
+labels: question
+assignees: ''
+---
+
 ## Question
 
 ### Description
@@ -8,8 +16,8 @@
 
 ### Context
 
-**Provide any additional context or information:**
+**Any additional context or information:**
 
-[Add any relevant context, links, or screenshots.]
+[Add any relevant context, links, or screenshots here.]
 
 /cc @mention-anyone

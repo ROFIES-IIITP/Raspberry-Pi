@@ -1,7 +1,7 @@
 ---
-name: Bug Report
+name: 🪲 Bug Report
 about: Create a report to help us improve
-title: "[BUG] "
+title: "[ 🪲 BUG] "
 labels: bug
 assignees: ''
 ---
@@ -16,9 +16,13 @@ assignees: ''
 
 ### Expected Behavior
 
+**What you expected to happen:**
+
 [Describe what you expected to happen.]
 
 ### Actual Behavior
+
+**What actually happened:**
 
 [Describe what actually happened.]
 
@@ -37,6 +41,8 @@ assignees: ''
 - **Other relevant software versions:** [e.g., GPIO library version]
 
 ### Additional Context
+
+**Any other context about the problem:**
 
 [Add any other context about the problem here.]
 
