@@ -16,7 +16,7 @@ For detailed instructions on setting up your Raspberry Pi, please refer to the [
 
 ## 💡 Projects
 
-### Project 1: Portable NAS
+### 1. Portable NAS
 
 Create a portable NAS using Raspberry-Pi 3, enabling wireless media streaming and file access via a self-hosted hotspot on the go.
 
