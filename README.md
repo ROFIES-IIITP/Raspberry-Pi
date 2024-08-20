@@ -4,8 +4,8 @@ Welcome to the Raspberry Pi Projects Repository! This repository includes detail
 
 ## 📚 Table of Contents
 
-1. [📋 Raspberry Pi Setup Guide](#raspberry-pi-setup-guide)
-2. [💡 Projects](#projects)
+1. 📋 [Raspberry Pi Setup Guide](#raspberry-pi-setup-guide)
+2. 💡 [Projects](#projects)
    - [Portable NAS](./Portable%20Raspberry-Pi%20NAS)
 
 ## 📋 Raspberry Pi Setup Guide
