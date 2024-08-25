@@ -18,7 +18,7 @@ For detailed instructions on setting up your Raspberry Pi, please refer to the [
 
 ### 1. Portable NAS
 
-Create a portable NAS using Raspberry-Pi 3, enabling wireless media streaming and file access via a self-hosted hotspot on the go.
+Create a portable NAS using a Raspberry-Pi, enabling wireless media streaming and file access via a self-hosted hotspot on the go.
 
 #### Requirements
 - Raspberry Pi-3
@@ -28,3 +28,10 @@ Create a portable NAS using Raspberry-Pi 3, enabling wireless media streaming an
 - Ethernet Connection
 
 ---
+
+
+## 🫂 Contributors
+
+<a href="https://github.com/ROFIES-IIITP/Raspberry-Pi/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Raspberry-Pi" />
+</a>
