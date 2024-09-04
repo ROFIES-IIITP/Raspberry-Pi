@@ -21,11 +21,13 @@ For detailed instructions on setting up your Raspberry Pi, please refer to the [
 Create a portable NAS using a Raspberry-Pi, enabling wireless media streaming and file access via a self-hosted hotspot on the go.
 
 #### Requirements
-- Raspberry Pi-3
+- Raspberry Pi
 - Power Supply
 - Micro SD Card (At Least 16 GB)
 - Storage Device (Other than the SD card)
 - Ethernet Connection
+
+<br>
 
 ---
 
