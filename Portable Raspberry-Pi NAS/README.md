@@ -213,7 +213,18 @@ A portable Network-Attached Storage (NAS) built using a Raspberry-Pi 3. This pro
 
     4. Open your Web Browser and search for `<IP_ADDRESS_OF_PI>:32400/web`. This should open the Plex web. You can create a free account and you can add your `Movies` folder from `Nasty`.
 
-6. **Congratulations🎉**<br> You have completed the Raspberry-Pi NAS Setup. Now you can access the hard drive contents from any device that is on the same network. You can also access the Plex Media Server on your phone with the Plex app (it's free).
+6. **Hotspot SETUP:**
+   1. To enable use `Hotspot` with your Raspberry Pi, run the `setup_hotspot.sh` script, after making the script executable. Run the following commands in the Raspberry Pi terminal (or with the SSH)
+   
+   <br>
+
+   ```bash
+    cd './Portable Raspberry-Pi NAS/setup_hotspot.sh'
+    chmod +x setup_hotspot.sh
+    sudo ./setup_hotspot.sh
+   ```
+
+7. **Congratulations🎉**<br> You have completed the Raspberry-Pi NAS Setup. Now you can access the hard drive contents from any device that is on the same network. You can also access the Plex Media Server on your phone with the Plex app (it's free).
 ---
 
 ## 🔄 Future Enhancements
