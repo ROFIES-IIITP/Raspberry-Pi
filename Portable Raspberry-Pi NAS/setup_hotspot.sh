@@ -6,6 +6,10 @@ if [ "$(id -u)" -ne 0 ]; then
   exit 1
 fi
 
+# Ensure that you have Nala installed
+sudo apt install nala
+clear
+
 # Update and install required packages using nala
 echo "Updating system and installing necessary packages..."
 nala update
@@ -74,11 +78,14 @@ sed -i '/^exit 0/i iptables-restore < /etc/iptables.ipv4.nat' /etc/rc.local
 
 # Start and enable services
 echo "Starting and enabling hostapd and dnsmasq..."
+sudo systemctl unmask hostapd
+sudo systemctl enable hostapd
+sudo systemctl start hostapd
 systemctl start hostapd
 systemctl start dnsmasq
 systemctl enable hostapd
 systemctl enable dnsmasq
 
 # Reboot to apply all changes
-echo "Setup complete. Rebooting..."
-reboot
+echo "Setup complete."
+echo "If the Setup was successful without errors, reboot your Raspberry Pi...."
