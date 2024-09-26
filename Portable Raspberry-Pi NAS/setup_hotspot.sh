@@ -6,6 +6,10 @@ if [ "$(id -u)" -ne 0 ]; then
   exit 1
 fi
 
+# Ensure that you have Nala installed
+sudo apt install nala
+clear
+
 # Update and install required packages using nala
 echo "Updating system and installing necessary packages..."
 nala update
