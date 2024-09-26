@@ -78,6 +78,9 @@ sed -i '/^exit 0/i iptables-restore < /etc/iptables.ipv4.nat' /etc/rc.local
 
 # Start and enable services
 echo "Starting and enabling hostapd and dnsmasq..."
+sudo systemctl unmask hostapd
+sudo systemctl enable hostapd
+sudo systemctl start hostapd
 systemctl start hostapd
 systemctl start dnsmasq
 systemctl enable hostapd
