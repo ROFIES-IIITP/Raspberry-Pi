@@ -84,5 +84,5 @@ systemctl enable hostapd
 systemctl enable dnsmasq
 
 # Reboot to apply all changes
-echo "Setup complete. Rebooting..."
-reboot
+echo "Setup complete."
+echo "If the Setup was successful without errors, reboot your Raspberry Pi...."
