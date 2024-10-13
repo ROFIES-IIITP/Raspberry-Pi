@@ -11,7 +11,6 @@ Welcome to the Raspberry Pi Projects Repository! This repository includes detail
 ## 📋 Raspberry Pi Setup Guide
 
 For detailed instructions on setting up your Raspberry Pi, please refer to the [Raspberry Pi Setup Guide](./Setup-Guide.md).
-
 ---
 
 ## 💡 Projects
