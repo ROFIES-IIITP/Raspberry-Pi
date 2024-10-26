@@ -7,6 +7,7 @@ Welcome to the Raspberry Pi Projects Repository! This repository includes detail
 1. 📋 Raspberry Pi Setup Guide
 2. 💡 Projects
    - [Portable NAS](./Portable%20Raspberry-Pi%20NAS)
+   - [Portable Hotspot](./Portable%20Raspberry-Pi%20NAS)
 
 ## 📋 Raspberry Pi Setup Guide
 
