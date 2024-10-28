@@ -9,6 +9,7 @@ Welcome to the Raspberry Pi Projects Repository! This repository includes detail
    - [Host on TOR](./Host%20on%20TOR)
    - [Main & Backup Server](./Main%20&%20Backup%20Server)
    - [Portable NAS](./Portable%20Raspberry-Pi%20NAS)
+   - [Portable Hotspot](./Portable%20Raspberry-Pi%20NAS)
 
 ## 📋 Raspberry Pi Setup Guide
 
